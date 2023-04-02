@@ -1,4 +1,4 @@
-# Stockmarkettrader
+# Stock market trader
 Basic Stock trading program that provides a platform for clients to sell and buy stocks and the server retrieves real-time stock prices from a third-party API
 This code is part of a stock trading program that provides a platform for clients to trade stocks. The program is implemented using the Python programming language and makes use of several built-in modules, including the socket, threading, and json modules.
 
